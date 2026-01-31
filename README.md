@@ -1,2 +1,4 @@
-# Excel_Dashboard
-Excel dashboard project for data analysis and visualization.
+Excel Dashboard Project
+
+This project presents an interactive dashboard built using Microsoft Excel.
+It includes data analysis, visualization, and supporting data sheets.
